@@ -1,0 +1,10 @@
+Abrir una consola de git:
+1. Elegir una carpeta.
+2. Click derecho a la carpeta y elegir git bash here.
+3. git init (iniciar repositorio local)
+4. subo archivos.
+5. git status (para ver los cambios)
+6. git add . (subir los archivos que vas a versionar).
+7. git commit -m "Comentarios"
+8. git remote add origin https://github.com/jdextrea/certus-java-2021.git
+9. git push origin master (git push -f origin master)
